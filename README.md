@@ -1,33 +1,19 @@
-### Hi there, I'm LalithPrabu 👋
+### Hi there 👋, LalithPrabu
+#### ENGINEER AND RESEARCHER
+![ENGINEER AND RESEARCHER](https://media-exp1.licdn.com/dms/image/C5603AQFER5LPsB9zeA/profile-displayphoto-shrink_200_200/0/1618652846389?e=1626307200&v=beta&t=UIs40NOizgBKRofX9aYyy1proKW_4VjAfz2Y_WR5MxM)
 
-## I'm a Senior Software and System Engineer in KPIT and Technical Instructor to Freshers, College and School Students!!
+I'm a Senior Software and System Engineer in KPIT and Technical Instructor to Freshers, College and School Students!!
 
 - 🌱 I’m currently doing part time PhD in AI and Robotics
+- 🔭 I’m currently working on KPIT 
 - 👯 I’m looking to collaborate with other Buisness and Robotics community
 - 🥅 Goals: Contribute more to Autonomous Driving projects
 - ⚡ Fun fact: Create crazy things everytime
 
----
+Skills: - [Deep Learning] - [Robotics] - [IOT and IORT] - [System Architect] - [Functional Safety] - [Team Management]
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LalithPrabu)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lalithprabu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/LALITH PRABU/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/LalithPrabu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lalithprabu111/)  
 
----
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-(www.linkedin.com/in/lalithprabu)
-
----
-
-### Familiar with
-
-- [Deep Learning]
-- [Robotics]
-- [IOT and IORT]
-- [System Architect]
-- [Functional Safety]
-- [Team Management]
 ---
 
 ### 📕 Latest Projects
